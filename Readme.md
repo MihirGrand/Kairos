@@ -1,3 +1,2 @@
-#Kairos
-
-###The Productivity Timer
+# Kairos
+### The Productivity Timer
